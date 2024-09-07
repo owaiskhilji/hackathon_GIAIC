@@ -1,0 +1,90 @@
+body{
+    box-sizing: border-box;
+}
+
+#main-container{
+    border: 2px solid black;
+    box-shadow: 0 0 12px black;
+    background-color: #f5f2eb;
+    margin: 0 auto ;
+width: 793.7px;                     
+height:  1122.5px ;
+}
+.per-container{
+background-color: #4aa0b5;  
+color: white;
+display: flex;
+    border: 1px solid black ;
+    width: 780px;
+height: 300px;
+    margin: 0 auto;
+    margin-top: 8px;               
+}
+.h-con{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#img{
+    width: 250px;
+    height: 280px;
+    margin-left:60%;
+    margin-top:10px;
+    overflow: hidden;
+}
+
+/* Education */
+#h1-btn{
+    width: 200PX;
+    font-size:x-large;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 20px;
+background-color: #dae0db;
+border: none;
+
+}
+#edu{
+    display:block;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+/* skill */
+
+#h2-btn{
+    width: 200PX;
+    font-size:x-large;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 20px;
+background-color: #dae0db;
+border: none;
+
+}
+
+#skills-h4{
+    display:block;
+}
+#skill{
+    display:block;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+/* Work Expirence */
+#h3-btn{
+    width: 300PX;
+    height: 40px;
+    font-size:x-large;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 20px;
+background-color: #dae0db;
+border: none;
+   
+}
+#work{
+    display:block;
+    margin-left: 50px;
+    margin-top: 10px;
+}
